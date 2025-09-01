@@ -1,0 +1,49 @@
+.buttons:hover {
+    background-color: aqua;
+}
+
+#name:focus {
+    border: 3px yellow solid;
+}
+
+.hi:first-child {
+    color:blue;
+    size: 20px;
+}
+
+.hi:last-child {
+    color:red;
+    size: 40px;
+}
+
+#f1:hover {
+    color:blue
+}
+
+#f2:hover {
+    color: red
+}
+
+#f3:hover {
+    color:bisque
+}
+
+#f4:hover {
+    color:gray
+}
+
+.first:nth-child(odd) {
+   background-color: #5e1212;
+}
+
+.second:nth-child(odd) {
+    background-color: aquamarine;
+}
+
+.gg:first-child {
+    color: green
+}
+
+.ff:last-child:focus {
+    color:blueviolet
+}
